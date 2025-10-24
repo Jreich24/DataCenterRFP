@@ -19,12 +19,12 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.14.17",
     "@mui/material": "^5.14.17",
-    "ajv": "^6.12.6",
     "axios": "^1.6.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.18.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "schema-utils": "3.1.1"
   },
   "devDependencies": {
     "@types/node": "^20.8.7",
@@ -34,9 +34,5 @@
     "@typescript-eslint/parser": "^6.10.0",
     "eslint-config-react-app": "^7.0.1",
     "typescript": "^5.2.2"
-  },
-  "resolutions": {
-    "ajv": "^6.12.6",
-    "ajv-keywords": "^3.5.2"
   }
 }
