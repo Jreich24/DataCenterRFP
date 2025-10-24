@@ -1,8 +1,8 @@
 import React from 'react';
-import { Rfp } from '../../types';
+import { RFP } from '../../types';
 
 interface RfpListProps {
-  rfps: Rfp[];
+  rfps: RFP[];
 }
 
 const RfpList: React.FC<RfpListProps> = ({ rfps }) => {
