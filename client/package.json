@@ -30,8 +30,5 @@
     "@typescript-eslint/parser": "^6.10.0",
     "eslint-config-react-app": "^7.0.1",
     "typescript": "^5.2.2"
-  },
-  "overrides": {
-    "ajv": "^8.12.0"
   }
 }
