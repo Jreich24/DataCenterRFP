@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://YOUR-USERNAME.github.io/YOUR-REPO-NAME",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
